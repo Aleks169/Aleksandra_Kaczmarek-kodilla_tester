@@ -8,6 +8,10 @@ public class MainExtended {
         boolean isGoodSinger = (false);
         System.out.println(myFriend);
         System.out.println(herPhoneNumber);
+        System.out.println(herHeight);
+        System.out.println(herFavoriteLetter);
+        System.out.println(isGoodDancer);
+        System.out.println(isGoodSinger);
 
     }
 }
